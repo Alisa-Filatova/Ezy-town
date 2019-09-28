@@ -1,0 +1,42 @@
+{
+  "short_name": "EZY",
+  "name": "EZY.com",
+  "icons": [
+    {
+      "src": "./res/android/ldpi.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "./res/android/mdpi.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "./res/android/hdpi.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./res/android/xhdpi.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./res/android/xxhdpi.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./res/android/xxxhdpi.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#3B3D46",
+  "gcm_sender_id_comment": "Do not change the GCM Sender ID",
+  "gcm_sender_id": "482941778795"
+}
